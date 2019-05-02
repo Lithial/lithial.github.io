@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Grader",
+        "date": "Friday 3 May 2019 17:00:00",
+        "class": "Programming Fundementals"
+    },
+    {
+        "name": "Movie Database",
+        "date": "Friday 7 June 2019 17:00:00",
+        "class": "Programming Fundementals"
+    },
+    {
+        "name": "SQL Database",
+        "date": "Friday 24 May 2019 08:15:00",
+        "class": "Intro to Data Concepts"
+    },
+    {
+        "name": "Ethics Report",
+        "date": "Monday 10 June 2019 17:00:00",
+        "class": "Intro to Data Concepts"
+    },
+    {
+        "name": "Data Test",
+        "date": "",
+        "class": "Intro to Data Concepts"
+    },
+    {
+        "name": "Company Analysis",
+        "date": "Thursday May 30 2019 08:15:00",
+        "class": "Information Systems"
+    },
+    {
+        "name": "IS Practical",
+        "date": "",
+        "class": "Information Systems"
+    },
+    {
+        "name": "IS Test",
+        "date": "",
+        "class": "Information Systems"
+    },
+    {
+        "name": "Prototype",
+        "date": "Friday 12 April 2019 08:15:00",
+        "class": "Internet and Mobile"
+    },
+    {
+        "name": "Test",
+        "date": "",
+        "class": "Internet and Mobile"
+    },
+    {
+        "name": "Card Game",
+        "date": "Friday 31 May 2019 17:00:00",
+        "class": "Intro to Object Oriented Programming"
+    },
+    {
+        "name": "Card Game Design: Doc",
+        "date": "Tuesday 7 May 2019 23:55:00",
+        "class": "Intro to Object Oriented Programming"
+    },
+    {
+        "name": "Card Game Design Review Report",
+        "date": "Friday 7 June 2019 23:55:00",
+        "class": "Intro to Object Oriented Programming"
+    }
+]
