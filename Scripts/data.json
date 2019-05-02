@@ -41,7 +41,7 @@
     },
     {
         "name": "Prototype",
-        "date": "Friday 12 April 2019 08:15:00",
+        "date": "Tuesday 11 June 2019 08:15:00",
         "class": "Internet and Mobile"
     },
     {
@@ -63,5 +63,10 @@
         "name": "Card Game Design Review Report",
         "date": "Friday 7 June 2019 23:55:00",
         "class": "Intro to Object Oriented Programming"
+    },
+    {
+        "name": "Last day of Term",
+        "date": "Friday 28 June 2019 17:00:00",
+        "class": "All of them"
     }
 ]
