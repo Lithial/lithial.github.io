@@ -38,7 +38,6 @@ function createBlock(name, date, paper) {
 }
 
 function timer(a, counter, div) {
-
   // Get todays date and time
   var now = new Date().getTime();
   // Find the distance between now and the count down date
