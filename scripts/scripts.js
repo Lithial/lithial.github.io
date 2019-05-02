@@ -1,4 +1,4 @@
-var requestURL = 'https://lithial.github.io/scripts/data.json';
+var requestURL = 'scripts/data.json'//'https://lithial.github.io/scripts/data.json';
 //change to scripts after when git push
 var request = new XMLHttpRequest();
 request.open('GET', requestURL);
