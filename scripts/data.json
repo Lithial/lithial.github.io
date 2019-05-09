@@ -15,11 +15,6 @@
         "class": "Information Systems"
     },
     {
-        "name": "Test",
-        "date": "",
-        "class": "Internet and Mobile"
-    },
-    {
         "name": "Grader",
         "date": "Friday 3 May 2019 17:00:00",
         "class": "Programming Fundementals"
@@ -28,6 +23,11 @@
         "name": "Card Game Design: Doc",
         "date": "Tuesday 7 May 2019 23:55:00",
         "class": "Intro to Object Oriented Programming"
+    },
+    {
+        "name": "Test",
+        "date": "Thursday 16 May 2019 13:00.00",
+        "class": "Internet and Mobile"
     },
     {
         "name": "SQL Database",
