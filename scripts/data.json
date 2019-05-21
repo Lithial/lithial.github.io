@@ -73,5 +73,10 @@
         "name": "Last day of Term",
         "date": "Friday 28 June 2019 17:00:00",
         "class": "All of them"
+    },
+    {
+        "name": "Furtwangen Summer Semester Start",
+        "date": "Monday 16 March 2020 08:00:00",
+        "class": "All of them"
     }
 ]
