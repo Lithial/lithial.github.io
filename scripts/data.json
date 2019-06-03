@@ -55,6 +55,11 @@
         "class": "Intro to Object Oriented Programming"
     },
     {
+        "name": "Prototype",
+        "date": "Friday 7 June 2019 08:15:00",
+        "class": "Internet and Mobile"
+    },
+    {
         "name": "Data Test",
         "date": "Monday 10 June 2019 17:00:00",
         "class": "Intro to Data Concepts"
@@ -64,11 +69,7 @@
         "date": "Monday 10 June 2019 17:00:00",
         "class": "Intro to Data Concepts"
     },
-    {
-        "name": "Prototype",
-        "date": "Friday 7 June 2019 08:15:00",
-        "class": "Internet and Mobile"
-    },
+
         {
         "name": "IS Practical",
         "date": "Thursday 13 June 2019 08:15:00",
