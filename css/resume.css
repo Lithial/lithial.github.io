@@ -36,8 +36,6 @@ li {
     list-style-position: inside;
 }
 
-
-
 .body {
     margin: auto;
     width: 75%;
@@ -100,6 +98,7 @@ li {
 .body{
     margin-bottom: 50px;
 }
+
 footer{
     background-color: black;
     color: white;
