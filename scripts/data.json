@@ -1,33 +1,24 @@
 [
-    {
-        "name": "Test",
-        "date": "Monday 9 September 2019 14:00:00",
-        "class": "OOP"
-      },
-    {
-        "name": "Assessment 1",
-        "date": "Friday 13 September 2019 08:15:00",
-        "class": "Hardware Concepts"
-      },
-  {
-    "name": "Website Mockups",
-    "date": "Friday 13 September 2019 17:00:00",
-    "class": "Website Development"
-  },
-  {
-    "name": "Planning and Design",
-    "date": "Friday 20 September 2019 23:55:00",
-    "class": "Intro to Object Oriented Programming"
-  },
   {
   "name":"Research Assignment",
   "date": "Friday 1 November 2019 17:00:00",
   "class": "IT Concepts and Tools"
   },
   {
-    "name": "Test?",
+    "name": "Test",
     "date": "Friday 4 November 2019 10:00:00",
     "class": "Website Development"
+  },
+
+  {
+    "name": "Game Project",
+    "date": "Friday 1 November 2019 17:00:00",
+    "class": "Intro to Object Oriented Programming"
+  },
+  {
+    "name": "Game Project Review Report",
+    "date": "Friday 1 November 2019 23:55:00",
+    "class": "Intro to Object Oriented Programming"
   },
   {
     "name": "Assessment 2",
@@ -41,17 +32,12 @@
   },
   {
     "name": "Website",
-    "date": "Friday 11 November 2019 17:00:00",
+    "date": "Friday 8 November 2019 17:00:00",
     "class": "Website Development"
-  },
-  {
-    "name": "Game Project",
-    "date": "Friday 11 November 2019 17:00:00",
-    "class": "Intro to Object Oriented Programming"
   },
     {
         "name": "Furtwangen Summer Semester Start",
-        "date": "Monday 16 March 2020 08:00:00",
+        "date": "Thursday 1 October 2020 08:00:00",
         "class": "All of them"
     }
 ]
