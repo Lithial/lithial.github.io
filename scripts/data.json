@@ -1,6 +1,6 @@
 [{
 		"name": "Test",
-		"date": "Tuesday 28 April 2020 10:00:00",
+		"date": "28 April 2020 10:00:00",
 		"class": "Advanced Object Oriented Programming"
 	},
 	{
@@ -11,7 +11,7 @@
 
 	{
 		"name": "PM Task 2",
-		"date": "Thursday 7 May 2020 08:15:00",
+		"date": "7 May 2020 08:15:00",
 		"class": "Project Management"
 	},
 
@@ -33,7 +33,7 @@
 	},
 	{
 		"name": "Assignment 1",
-		"date": "Thusday 4 June 2020 08:15:00",
+		"date": "4 June 2020 08:15:00",
 		"class": "Systems Analysis"
 	},
 	{
@@ -48,17 +48,17 @@
 	},
 	{
 		"name": "Test",
-		"date": "Saturday 13 June 2020 13:00:00",
+		"date": "13 June 2020 13:00:00",
 		"class": "Systems Analysis"
 	},
 	{
 		"name": "Test",
-		"date": "Monday 15 June 2020 08:15:00",
+		"date": "15 June 2020 08:15:00",
 		"class": "Project Management"
 	},
 	{
 		"name": "Report",
-		"date": "Sunday 5 July 2020 08:15:00",
+		"date": "5 July 2020 08:15:00",
 		"class": "Systems Design"
 	},
 	{
