@@ -48,6 +48,11 @@
 		"class": "UX/UI"
 	},
 	{
+		"name": "Report",
+		"date": "5 June 2020 08:15:00",
+		"class": "Systems Design"
+	},
+	{
 		"name": "SysA Test",
 		"date": "13 June 2020 13:00:00",
 		"class": "Systems Analysis"
@@ -56,11 +61,6 @@
 		"name": "PM Test",
 		"date": "15 June 2020 08:15:00",
 		"class": "Project Management"
-	},
-	{
-		"name": "Report",
-		"date": "5 July 2020 08:15:00",
-		"class": "Systems Design"
 	},
 	{
 		"name": "Furtwangen Summer Semester Start",
