@@ -1,38 +1,13 @@
 [
 	{
-		"name": "Aoop Test",
-		"date": "28 April 2020 10:00:00",
-		"class": "Advanced Object Oriented Programming"
-	},
-	{
-		"name": "PM Task 2",
-		"date": "10 May 2020 17:00:00",
+		"name": "Task 3",
+		"date": "4 June 2020 08:15:00",
 		"class": "Project Management"
-	},
-	{
-		"name": "Design Document",
-		"date": "15 May 2020 23:55:00",
-		"class": "Advanced Object Oriented Programming"
-	},
-	{
-		"name": "Test",
-		"date": "Friday 22 May 2020 13:00:00",
-		"class": "Electronics and Internet of Things"
 	},
 	{
 		"name": "Assignment 1",
-		"date": "4 June 2020 08:15:00",
+		"date": "4 June 2020 11:55:00",
 		"class": "Systems Analysis"
-	},
-	{
-		"name": "Task 3",
-		"date": "4 June 2020 23:55:00",
-		"class": "Project Management"
-	},
-	{
-		"name": "Part 2",
-		"date": "5 June 2020 08:15:00",
-		"class": "UX/UI"
 	},
 	{
 		"name": "Report",
@@ -45,9 +20,14 @@
 		"class": "Electronics and Internet of Things"
 	},
 	{
-		"name": "Report and Game(Approx)",
-		"date": "5 June 2020 17:00:00",
+		"name": "Report and Game",
+		"date": "5 June 2020 11:55:00",
 		"class": "Advanced Object Oriented Programming"
+	},
+	{
+		"name": "Part 2",
+		"date": "8 June 2020 17:00:00",
+		"class": "UX/UI"
 	},
 	{
 		"name": "SysA Test",
@@ -55,8 +35,13 @@
 		"class": "Systems Analysis"
 	},
 	{
+		"name": "SysD Test",
+		"date": "16 June 2020 09:15:00",
+		"class": "Systems Analysis"
+	},
+		{
 		"name": "PM Test",
-		"date": "15 June 2020 08:15:00",
+		"date": "17 June 2020 09:00:00",
 		"class": "Project Management"
 	},
 	{
